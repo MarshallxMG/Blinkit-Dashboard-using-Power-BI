@@ -14,7 +14,7 @@ An interactive Power BI dashboard built to analyze and visualize Blinkit's busin
 
 # 🚀 Getting Started
 
-*Clone or download the repository.
-*Open the Blinkit Report.pbix file in Power BI Desktop.
-*Replace data source if using your own Blinkit-style data.
-*Refresh and explore the visuals.
+* Clone or download the repository.
+* Open the Blinkit Report.pbix file in Power BI Desktop.
+* Replace data source if using your own Blinkit-style data.
+* Refresh and explore the visuals.
