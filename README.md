@@ -7,3 +7,14 @@ An interactive Power BI dashboard built to analyze and visualize Blinkit's busin
 *📍 Location Intelligence: Performance by city/zone using map visuals
 * 🕒 Time Analysis: Peak hours, daily/weekly patterns, and delivery times
 * 📈 KPIs & Metrics: Real-time business indicators with DAX-powered visuals
+# 🛠️ Built With
+* Microsoft Power BI Desktop
+* DAX for calculated measures and KPIs
+* Clean, user-friendly interactive design with filters and slicers
+
+#🚀 Getting Started
+
+*Clone or download the repository.
+*Open the Blinkit Report.pbix file in Power BI Desktop.
+*Replace data source if using your own Blinkit-style data.
+*Refresh and explore the visuals.
