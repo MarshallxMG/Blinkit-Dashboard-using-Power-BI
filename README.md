@@ -12,7 +12,7 @@ An interactive Power BI dashboard built to analyze and visualize Blinkit's busin
 * DAX for calculated measures and KPIs
 * Clean, user-friendly interactive design with filters and slicers
 
-#🚀 Getting Started
+# 🚀 Getting Started
 
 *Clone or download the repository.
 *Open the Blinkit Report.pbix file in Power BI Desktop.
